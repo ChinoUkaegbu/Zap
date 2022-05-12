@@ -14,4 +14,4 @@ Download the contents of this repository. Open the game.pyde file in Processing 
 
 ## Notes
 
-Zap was developed in May 2021 as part of our Intro to Computer Science final project. We hope you enjoy playing it as much as we enjoyed developing it :)
+Zap was developed in May 2021 (but was first uploaded onto Github in May 2022) as part of our Intro to Computer Science final project. We hope you enjoy playing it as much as we enjoyed developing it :)
